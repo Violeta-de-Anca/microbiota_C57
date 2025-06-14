@@ -1,0 +1,759 @@
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_103_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  67730                67729                   8570                    3867                     1356                     450                      250058438               250058228                  139477779                  107261127                   69239657                    37814602                    67729      319227          250058228     48.26   6693  2211  6064  23710  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_103_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_111_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_111_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_112_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  31056                31055                   5913                    3043                     1120                     346                      154870313               154870109                  106385667                  86387556                    56700160                    29999558                    31055      344346          154870109     48.36   13404  3476  2274  8278  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_112_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_113_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  47737                47736                   7788                    3840                     1397                     490                      214517251               214517047                  137605139                  110229051                   72358268                    40931073                    47736      258368          214517047     49.96   10755  2904  3554  14016  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_113_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_114_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  61393                61392                   9296                    4232                     1440                     518                      254534609               254534399                  153632219                  118842205                   76238110                    44485388                    61392      371178          254534399     49.48   8325  2603  5158  19897  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_114_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_115_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_115_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_116_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  67396                67395                   8209                    3830                     1446                     587                      257641785               257641578                  148849661                  118739398                   82150125                    52417612                    67395      409578          257641578     49.43   7862  2238  4972  22178  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_116_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_117_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  66595                66594                   9097                    4448                     1545                     553                      265587273               265587024                  158072619                  126053237                   81643291                    47344697                    66594      321442          265587024     49.03   8580  2391  5176  21529  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_117_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_11_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_11_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_12_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        608                     0                          0                          0                           0                           0                           1          608             608           29.61   608  608  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_12_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_21_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  51551                51550                   8617                    4243                     1684                     626                      242671405               242670832                  161065516                  130809938                   91509838                    54834364                    51551      354312          242671405     50.33   12541  3102  3394  13984  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_21_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_22_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  42021                42020                   5693                    3059                     1249                     471                      180646602               180646401                  114361862                  96134006                    67867933                    40793885                    42020      354309          180646401     49.29   12314  2582  2537  11804  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_22_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_22_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  50261                50260                   7104                    3466                     1264                     436                      206463865               206463634                  125354084                  100350632                   66329922                    37636968                    50260      435116          206463634     49.42   9196  2503  3768  15739  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_22_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_23_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  38707                38706                   6574                    3492                     1388                     494                      189233075               189232867                  128314093                  106987627                   74173632                    43090218                    38706      482915          189232867     49.10   14685  3316  2465  9938  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_23_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_24_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  55776                55775                   9402                    4651                     1866                     703                      267501590               267501353                  177318912                  144762195                   101851876                   61242791                    55775      344362          267501353     49.78   12801  3149  3677  15368  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_24_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_26_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_26_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_31_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  54230                54229                   8764                    4297                     1526                     522                      238828125               238827894                  152257120                  121430819                   78326144                    44242976                    54229      356444          238827894     48.99   10572  2825  4101  16051  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_31_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_33_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  74667                74666                   11612                   5486                     1951                     682                      318815794               318815583                  198315622                  156004625                   102196433                   58110344                    74666      483101          318815583     49.93   9435  2694  5836  22968  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_33_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_34_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  59187                59186                   8771                    4022                     1233                     397                      233987547               233987310                  137267819                  104470909                   61870587                    33252684                    59186      344346          233987310     49.16   7645  2450  5459  20056  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_34_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_43_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_43_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_45_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_45_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_46_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_46_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_91_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_91_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_92_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  41806                41805                   5315                    2219                     586                      196                      144032578               144032353                  75206185                   54026687                    29866719                    16762894                    41805      320847          144032353     46.59   5482  2097  4706  15975  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_92_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_93_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  38123                38122                   6953                    3177                     1103                     392                      177001623               177001413                  116040122                  90001078                    58405872                    33744793                    38122      474546          177001413     49.29   10489  3162  3031  11197  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_93_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_93_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_93_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_94_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  48684                48683                   7443                    3740                     1429                     526                      215554053               215553846                  138403000                  112747641                   76804297                    45505528                    48683      483101          215553846     49.25   11528  2766  3277  13839  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_94_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_94_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  57731                57730                   8960                    4307                     1615                     596                      252734090               252733880                  159864171                  127976217                   86522949                    50905501                    57730      601063          252733880     48.71   10397  2784  4150  17083  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_94_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_96_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F0_96_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1031_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1031_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1032_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1032_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1033_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  52342                52341                   6557                    2922                     1008                     370                      193917862               193917655                  107232743                  82467785                    53252232                    31238951                    52341      423097          193917655     48.49   6498  2234  4747  18525  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1033_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_111_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  66927                66926                   9145                    4017                     1242                     408                      250930321               250930090                  140657433                  105278228                   63046563                    34182353                    66926      361712          250930090     48.34   6689  2290  6506  23743  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_111_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_112_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  76063                76062                   10334                   4902                     1533                     488                      291309341               291309140                  167786784                  130312733                   78379444                    42382348                    76062      423975          291309140     48.86   7511  2313  6680  25898  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_112_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_113_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_113_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1151_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  37615                37614                   7041                    3602                     1270                     389                      181065736               181065532                  122575351                  98763643                    62648081                    32013009                    37614      435116          181065532     48.22   12626  3333  2867  10328  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1151_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1152_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1152_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1173_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  62384                62383                   7107                    2554                     709                      301                      205067991               205067736                  100578637                  69482162                    42339765                    28282482                    62383      421238          205067736     47.79   4789  1997  7507  24930  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1173_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1174_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_1174_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_121_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        586                     0                          0                          0                           0                           0                           1          586             586           29.69   586  586  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_121_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_122_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  46889                46888                   5876                    2320                     558                      136                      158485690               158485444                  74724676                   50503695                    23997851                    9631587                     46888      156564          158485444     47.12   4528  2114  6826  20286  32.95            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_122_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_123_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  53305                53304                   6749                    3165                     1089                     370                      197609747               197609537                  111052744                  86322187                    54438082                    29712042                    53304      283068          197609537     48.07   6977  2213  4663  18498  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_123_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_262_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  54608                54607                   7002                    3313                     1206                     466                      212259558               212259357                  124216179                  98930753                    66520670                    40861058                    54607      433978          212259357     47.78   8067  2308  4117  17774  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_262_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_263_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  59615                59614                   6844                    3082                     1050                     413                      213102974               213102737                  114779876                  88974525                    58105532                    36049993                    59614      474546          213102737     49.22   6135  2111  5356  21493  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_263_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_264_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  59676                59675                   7716                    3330                     1120                     413                      221189035               221188813                  123081646                  92974583                    59780957                    35616132                    59675      296683          221188813     48.32   6576  2236  5525  21069  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_264_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_265_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  57104                57103                   7503                    3680                     1379                     492                      226530415               226530205                  134295507                  107938320                   72339032                    41682872                    57103      345181          226530205     48.68   8655  2361  4254  18333  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_265_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_331_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_331_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_332_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_332_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_333_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_333_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_341_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  59046                59045                   6086                    2427                     772                      279                      187924425               187924215                  89415198                   64616653                    39758132                    22765508                    59045      280571          187924215     48.34   4505  1904  7045  23989  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_341_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_422_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_422_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_423_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  65954                65953                   9043                    3829                     1125                     383                      244487909               244487696                  135598451                  99758452                    59367958                    34364860                    65953      348615          244487696     48.28   6394  2280  6680  23750  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_423_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_424_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  42518                42517                   8437                    3851                     1032                     338                      197463248               197463035                  126266143                  94405689                    52012104                    28374453                    42517      292005          197463035     48.21   9133  3049  4305  14093  27.58            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_424_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_424_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  66677                66676                   9442                    4249                     1362                     451                      260849262               260849061                  150684932                  114982788                   70531403                    39293937                    66676      330146          260849061     48.71   7330  2423  6067  22793  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_424_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_426_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  57161                57160                   8364                    3690                     1219                     439                      228194520               228194235                  134031619                  102145745                   64655461                    37582304                    57160      370836          228194235     48.28   7541  2497  5075  19176  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_426_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_461_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_461_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_462_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        622                     0                          0                          0                           0                           0                           1          622             622           43.57   622  622  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_462_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_463_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  47257                47256                   6497                    3464                     1414                     484                      200734031               200733830                  125789278                  104801902                   72504133                    40132777                    47256      343789          200733830     48.53   11605  2563  3054  13632  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_463_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_912_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  60996                60995                   6667                    3379                     1319                     497                      224259108               224258847                  127053354                  104427681                   72720625                    43912070                    60995      343626          224258847     48.57   7812  2079  4250  20410  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_912_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_923_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        640                     0                          0                          0                           0                           0                           1          640             640           28.12   640  640  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_923_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_924_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_924_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_926_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_926_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_942_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_942_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_943_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_943_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_944_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  48879                48878                   5790                    2341                     726                      237                      174122868               174122664                  85455278                   62058713                    37485048                    20747362                    48878      352743          174122664     47.92   4809  2179  6118  20376  30.08            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F1_944_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10311_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  57184                57183                   4789                    1932                     577                      195                      166348271               166348067                  71330420                   51804215                    31643309                    18428829                    57183      425030          166348067     48.11   3662  1736  7586  24984  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10311_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10312_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  47645                47644                   4730                    1768                     488                      156                      144514656               144514449                  65486722                   45165605                    26259316                    14964129                    47644      421311          144514449     48.21   4128  1817  6223  20129  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10312_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10313_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_10313_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1123_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  73968                73967                   9172                    3809                     1242                     495                      267168105               267167874                  145644799                  108902661                   70487368                    44515407                    73967      421032          267167874     49.13   6172  2160  6992  26657  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1123_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11741_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  57769                57768                   5696                    2366                     696                      215                      177738563               177738302                  82276724                   59532250                    34515110                    18002958                    57768      272790          177738302     48.35   4246  1833  7130  24075  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11741_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11742_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11742_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11743_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  42335                42334                   4039                    2030                     612                      177                      132391746               132391533                  66694016                   52752853                    30854632                    15811824                    42334      394905          132391533     47.79   5129  1749  3941  16441  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11743_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11744_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  52236                52235                   5281                    2483                     886                      329                      176117304               176117079                  91590884                   72455318                    47858330                    28565522                    52235      420866          176117079     48.34   5619  1938  4614  19440  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11744_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11745_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  61760                61759                   7635                    3288                     1014                     376                      221663334               221663134                  120591989                  90666337                    56294964                    34341722                    61759      526141          221663134     50.11   6208  2152  5879  22201  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11745_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11746_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  51988                51987                   5332                    2034                     525                      142                      156339149               156338929                  69456129                   47024276                    24139027                    11201282                    51987      260421          156338929     46.59   4046  1834  7280  22321  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11746_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11747_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11747_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11748_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  47546                47545                   4477                    1793                     664                      280                      150960634               150960079                  72870128                   54675580                    37502112                    24244070                    47546      336329          150960634     48.12   4594  1850  5022  18852  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_11748_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1211_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1211_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1212_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  61426                61425                   6894                    2726                     1011                     384                      213687512               213687293                  110620441                  82466251                    56826528                    35145773                    61425      758637          213687293     49.07   5374  2084  6166  23122  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1212_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1213_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1213_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1221_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1221_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1222_A_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1222_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1223_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  64375                64374                   6174                    2362                     817                      316                      203427035               203426792                  96382805                   70448075                    47159040                    29872608                    64374      399746          203426792     49.23   4457  1868  7305  26039  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_1223_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3411_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        675                     0                          0                          0                           0                           0                           1          675             675           28.44   675  675  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3411_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3412_A_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  50581                50580                   5090                    2307                     849                      342                      171501925               171501712                  90099954                   71160516                    49034454                    31544697                    50580      424361          171501712     48.63   5774  1935  4280  18544  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3412_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3413_A_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_3413_A_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9121_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9121_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9122_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  48657                48656                   5592                    2440                     783                      258                      167783989               167783776                  89147269                   67619367                    42453717                    24217038                    48656      434973          167783776     48.85   5829  2021  4616  17959  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9122_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9123_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  67215                67214                   6157                    2543                     883                      353                      211907647               211907446                  102415407                  77697317                    52542100                    34239526                    67214      437295          211907446     49.20   4633  1822  6893  26614  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9123_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9124_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  69217                69216                   6993                    2859                     1029                     361                      225363433               225363220                  110797946                  82672760                    55083981                    31837422                    69216      421043          225363220     48.00   4802  1919  7378  27239  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9124_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9125_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  53500                53499                   5701                    2321                     777                      263                      177464819               177464615                  87318342                   64266376                    40992433                    23331580                    53499      281528          177464615     48.29   4826  1995  5989  21141  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9125_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9126_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  44539                44538                   4777                    2052                     645                      213                      147777209               147776999                  74531280                   55752483                    34523927                    19738517                    44538      359126          147776999     48.35   5120  1961  4650  17210  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9126_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9235_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9235_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9241_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  53096                53095                   8275                    3612                     888                      260                      201724490               201723959                  115443776                  83164777                    42059549                    20887452                    53096      257496          201724490     47.82   6865  2405  5771  18890  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9241_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9253_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        648                     0                          0                          0                           0                           0                           1          648             648           29.01   648  648  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9253_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9254_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9254_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9255_B_female_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9255_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9256_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  58829                58828                   5882                    2551                     819                      267                      184545238               184545001                  89971888                   67006437                    40912664                    21809142                    58828      272831          184545001     47.44   4701  1818  6357  23389  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9256_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9257_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  49586                49585                   5536                    2465                     815                      311                      173186330               173186111                  94076596                   72885089                    48039930                    30675560                    49585      419271          173186111     48.04   6327  2011  4203  17590  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9257_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9258_B_female_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  51679                51678                   6689                    3017                     926                      297                      185850283               185850070                  103046581                  77753608                    46344932                    25004620                    51678      326229          185850070     49.49   6544  2141  4910  18370  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9258_B_female_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9421_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9421_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9422_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        515                     0                          0                          0                           0                           0                           1          515             515           40.58   515  515  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9422_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9433_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  54683                54682                   5798                    2369                     659                      218                      173288544               173288340                  84143590                   60581484                    35068582                    19968733                    54682      374003          173288340     47.18   4661  1874  6318  22063  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9433_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9434_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  43714                43713                   4493                    1853                     554                      187                      138450679               138450478                  67155739                   49035103                    29602011                    17192249                    43713      395763          138450478     47.61   4663  1864  4922  17538  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9434_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9436_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  44732                44731                   5840                    2216                     603                      209                      154577298               154577079                  81034870                   56047203                    32278366                    18662712                    44731      363476          154577079     46.91   5538  2120  5128  17069  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9436_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9437_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        563                     0                          0                          0                           0                           0                           1          563             563           27.35   563  563  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9437_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9438_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  52895                52894                   3960                    1221                     289                      99                       134148282               134148057                  47146050                   28514597                    14935851                    8282022                     52894      328069          134148057     46.75   2941  1564  9295  25545  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9438_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9439_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  41321                41320                   5223                    2270                     708                      218                      147392401               147392179                  80576541                   60116711                    36369267                    19317770                    41320      420547          147392179     48.08   6315  2125  3991  14912  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9439_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9445_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  63871                63870                   4790                    2010                     758                      280                      183932582               183932381                  80358499                   61396463                    42519898                    25802349                    63870      421043          183932381     48.06   3642  1669  7547  27450  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9445_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9446_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9446_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9453_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9453_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9454_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  56838                56837                   7399                    3111                     912                      313                      203980864               203980507                  111328149                  81659039                    48743970                    28307410                    56837      419060          203980507     48.04   6208  2181  5715  20658  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9454_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9455_B_male_M: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9455_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9457_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  48597                48596                   6794                    3059                     932                      298                      183566265               183566046                  104743266                  78972793                    46753042                    24672443                    48596      378100          183566046     47.39   7004  2308  4600  16889  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9457_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9458_A_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        647                     0                          0                          0                           0                           0                           1          647             647           29.06   647  647  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9458_A_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9459_B_male_M
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50  N75  L50  L75  # N's per 100 kbp
+final_assembly  1                    0                       0                       0                        0                        0                        596                     0                          0                          0                           0                           0                           1          596             596           29.36   596  596  1    1    0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_9459_B_male_M.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/F2_mistery_female_m
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  57425                57424                   5101                    1878                     514                      180                      164632606               164632375                  69488545                   47611319                    27205804                    15749083                    57424      329220          164632375     47.87   3645  1726  8135  25404  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_10_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  40460                40459                   6462                    2827                     950                      343                      171661951               171661747                  104575237                  79671690                    50874956                    29937349                    40459      435116          171661747     49.35   8308  2709  3506  13155  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_10_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_13_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  29053                29052                   3729                    2012                     811                      322                      121312532               121312301                  75553535                   63673144                    44967303                    28265774                    29052      377079          121312301     50.57   11809  2442  1735  8369  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_13_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_1_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  29074                29073                   4966                    2536                     927                      325                      137560315               137560054                  90492810                   73745067                    48780885                    27941526                    29073      258483          137560054     48.64   12341  3121  2088  8235  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_1_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_25_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  38380                38379                   5937                    3107                     1221                     437                      175817161               175816960                  115280628                  95702128                    66245890                    38777378                    38379      355913          175816960     48.99   13075  2883  2425  10392  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_25_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_28_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  32244                32243                   6104                    3017                     1030                     331                      155559194               155558981                  104550926                  83241743                    52977446                    28832182                    32243      483675          155558981     49.98   11812  3332  2515  9095  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_28_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_31_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  56722                56721                   7822                    3582                     1434                     580                      237852487               237852265                  144643199                  115802168                   82550108                    52700795                    56721      364082          237852265     50.08   9179  2571  3909  17545  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_31_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_34_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  44935                44934                   6864                    3060                     981                      332                      183517453               183517222                  108521457                  82453943                    51000783                    28476074                    44934      293392          183517222     49.61   7659  2589  4131  15166  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_34_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_37_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  36538                36537                   4978                    2467                     980                      384                      154205659               154205419                  95695911                   78444898                    55391660                    34722903                    36537      354312          154205419     50.65   10619  2525  2337  10806  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_37_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_40_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  34262                34261                   4834                    2314                     856                      355                      144228346               144228115                  88666340                   71435172                    49102733                    31428523                    34261      350046          144228115     49.34   9667  2569  2384  10448  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_40_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_49_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  34398                34397                   4786                    2577                     1087                     452                      156601521               156601290                  102588421                  87401032                    63993482                    41812946                    34397      712277          156601290     48.78   14912  2792  1831  8872  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_49_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_4_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  48672                48671                   6386                    3034                     1074                     379                      188544340               188544103                  109764247                  86873905                    57072347                    33128423                    48671      316200          188544103     49.34   7823  2330  3874  16056  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_4_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_52_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  55056                55055                   9287                    3733                     1141                     366                      236190732               236190519                  136648220                  98831503                    59863188                    32970522                    55055      483662          236190519     49.97   6854  2717  6094  20499  20.42            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_52_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_55_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  33646                33645                   5182                    2699                     999                      372                      150290593               150290383                  97617693                   80468305                    54213248                    32426904                    33645      483101          150290383     49.48   12164  2807  2218  9309  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_55_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_58_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  33492                33491                   5524                    2722                     928                      346                      152205104               152204441                  98332908                   78927976                    51525424                    31610306                    33492      354344          152205104     49.63   11016  2921  2453  9756  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_58_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_61_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  47055                47054                   5018                    2306                     939                      417                      173864030               173863823                  96928142                   78554495                    57768585                    39613382                    47054      454166          173863823     49.33   7003  2119  3316  16011  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_61_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_73_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  51052                51051                   5656                    2857                     1177                     486                      194707485               194707254                  111844143                  92692802                    66775987                    42739106                    51051      344296          194707254     49.06   8304  2197  3372  16601  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_73_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_76_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  52597                52596                   7878                    3579                     1304                     480                      221231155               221230951                  134330795                  104845729                   70104199                    41569318                    52596      321522          221230951     48.81   8637  2645  4202  16791  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_76_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_79_A_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  50846                50845                   8004                    3795                     1269                     434                      221622947               221622729                  133847407                  105082283                   66366663                    37704644                    50845      483082          221622729     49.59   8573  2665  4415  17134  17.52            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_79_A_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_7_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  39089                39088                   6637                    3158                     1078                     382                      176767250               176767046                  113031893                  89054237                    57437348                    33321258                    39088      435308          176767046     49.25   10184  2943  3092  11806  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_7_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_82_A_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  48189                48188                   6531                    2792                     1070                     443                      203090358               203090157                  116653682                  91193330                    65047191                    43003494                    48188      659532          203090157     50.31   7346  2535  4007  16888  20.63            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_82_A_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_85_A_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  69529                69528                   9213                    3861                     1281                     457                      259153570               259153360                  143134476                  106540055                   67368240                    38999993                    69528      341580          259153360     48.72   6349  2292  6799  24920  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F0_85_A_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_10_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  30808                30807                   4661                    2399                     985                      380                      141738288               141738048                  92361032                   76722740                    54723624                    33547126                    30807      483101          141738048     49.79   12977  2926  1885  8372  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_10_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_13_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  49291                49290                   6663                    3337                     1244                     441                      200665162               200664937                  121204298                  98354806                    66474156                    38938119                    49290      353675          200664937     49.77   9350  2451  3542  15362  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_13_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_16_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  56568                56567                   7631                    3464                     1123                     376                      215071013               215070803                  121652814                  92986815                    57246080                    31613588                    56567      420946          215070803     49.14   6941  2317  5225  19721  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_16_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_28_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  37997                37996                   5472                    2692                     928                      362                      160124888               160124657                  97977285                   78851913                    51475949                    31701199                    37996      434925          160124657     48.70   9540  2589  2816  11813  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_28_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_31_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  33018                33017                   5085                    2593                     954                      351                      148423475               148423237                  95047620                   77977089                    52748561                    31760880                    33017      435116          148423237     49.08   11472  2839  2243  9494  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_31_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_34_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  41602                41601                   6146                    2949                     1014                     411                      174553564               174553135                  108234804                  86073715                    56609913                    36088378                    41601      483092          174553135     48.98   9649  2617  3072  12596  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_34_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_37_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  46163                46162                   4914                    2194                     828                      317                      160806293               160806062                  85339964                   66886621                    46312718                    28532966                    46162      304324          160806062     49.14   5896  2017  4004  16846  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_37_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_40_B_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  50002                50001                   11663                   5849                     1995                     653                      283994732               283994519                  199763996                  159669354                   100074648                   54516593                    50001      389343          283994519     48.97   13386  3974  4321  14646  13.69            
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_40_B_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_4_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  44563                44562                   5893                    2782                     1088                     425                      178197688               178197385                  106442344                  85111673                    59033350                    35703074                    44562      293383          178197385     49.38   8718  2390  3210  14048  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_4_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_64_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  41857                41856                   5419                    3051                     1383                     596                      190214921               190214699                  125284034                  108888597                   82769549                    55133356                    41856      714214          190214699     48.70   16895  2676  1985  10337  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_64_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_76_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  40989                40988                   4768                    2274                     997                      422                      162249860               162249626                  94677044                   77694363                    57965119                    37719101                    40988      483092          162249626     48.83   8548  2320  2645  13123  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_76_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_79_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  37310                37309                   6144                    3096                     1184                     423                      174236221               174236020                  113536833                  92520406                    62878107                    36525922                    37309      353759          174236020     49.12   12012  3028  2605  10611  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_79_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_7_A_male
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75   # N's per 100 kbp
+final_assembly  28333                28332                   4137                    2128                     779                      274                      121087313               121087082                  75350545                   61502477                    40757586                    23450215                    28332      283088          121087082     48.96   10510  2672  2035  8491  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_7_A_male.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_85_B_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50    N75   L50   L75    # N's per 100 kbp
+final_assembly  50943                50942                   6411                    3171                     1311                     544                      210461518               210461287                  128398833                  106121490                   77477046                    50633104                    50942      483667          210461287     48.95   10272  2448  3084  15173  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_85_B_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_88_A_female
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly	contigs (>= 0 bp)  # contigs (>= 1000 bp)  # contigs (>= 5000 bp)  # contigs (>= 10000 bp)  # contigs (>= 25000 bp)  # contigs (>= 50000 bp)  Total length (>= 0 bp)  Total length (>= 1000 bp)  Total length (>= 5000 bp)  Total length (>= 10000 bp)  Total length (>= 25000 bp)  Total length (>= 50000 bp)  # contigs  Largest contig  Total length  GC (%)  N50   N75   L50   L75    # N's per 100 kbp
+final_assembly  49089                49088                   6749                    2840                     886                      306                      183148520               183148253                  101462157                  74451001                    45045394                    24844975                    49088      272829          183148253     49.04   6394  2302  4997  17735  0.00             
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/LF_F1_88_A_female.megahit.assembly.fasta: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/megahit: no
+/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes/megahit.tmp: no
