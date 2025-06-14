@@ -1,0 +1,39 @@
+#!/bin/bash
+#SBATCH -A uppmax2025-2-151
+#SBATCH -p core
+#SBATCH -n 1
+#SBATCH -t 1:00
+#SBATCH -J jobarray
+#SBATCH --mail-type=BEGIN
+#SBATCH --error /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/array_01_plate6and1.1_removal.err
+#SBATCH --output /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/array_01_plate6and1.1_removal.out
+
+# SLURM_ARRAY_TASK_ID tells the script which iteration to run
+echo $SLURM_ARRAY_TASK_ID
+
+module load bioinfo-tools metaWRAP/1.3.2
+
+
+#plate 4, which is the last feces F1 and F2
+#input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_F1/X204SC23116322_Z01_F010/X204SC23116322-Z01-F010_01/01.RawData
+
+#for F in $(cat $input_path/plate_4_sample.list.txt); do
+#        echo $F
+#        sbatch --export=ALL,a=$F plate_4_01_removal_of_host.sh $F
+#done
+
+#plate 6, which is the transgenerational cecum feces
+input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/cecum_samples/raw_files_F0_till_f2/transgenerational_samples
+
+for F in $input_path/*; do
+        echo $F
+        sbatch --export=ALL,a=$F plate_6_01_removal_of_host.sh $F
+done
+
+#plate 1.1, which is the whole families of cecum feces
+input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/cecum_samples/whole_families_plate1.1
+
+#for F in $input_path/*; do
+#        echo $F
+#        sbatch --export=ALL,a=$F plate_1.1_01_removal_of_host.sh $F
+#done
