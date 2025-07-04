@@ -18,16 +18,27 @@ output_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metage
 
 mkdir -p output_path
 
+# do this by generation and group separatedly
+for suffix in cecum_samples last_feces; do
+	for F in F0 F1 F2; do
+		for i in control obese; do
+			sample=$input_main_path/$suffix/trimmed_host_removed/${F}_${i}
+			echo $sample
+			sbatch --export=ALL,sample=$sample assembling_metagenomes_array.sh $sample
+		done
+	done
+done
+
 #do it with the merge data by generation
 # last_feces cecum_samples
-for suffix in cecum_samples; do
+#for suffix in cecum_samples; do
 	# F0 F1 F2
-	for F in F2; do
-		generation=$input_main_path/$suffix/trimmed_host_removed/$F
-                echo $generation
-                sbatch --export=ALL,sample=$generation /proj/naiss2024-23-57/C57_female_lineage_microbiota/bin/assembling_metagenomes_array.sh $generation
-        done
-done
+#	for F in F2; do
+#		generation=$input_main_path/$suffix/trimmed_host_removed/$F
+#                echo $generation
+#                sbatch --export=ALL,sample=$generation /proj/naiss2024-23-57/C57_female_lineage_microbiota/bin/assembling_metagenomes_array.sh $generation
+#        done
+#done
 
 #for suffix in last_feces; do
 #F0 F2

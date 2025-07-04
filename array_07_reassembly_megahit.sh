@@ -13,16 +13,27 @@ echo $SLURM_ARRAY_TASK_ID
 
 module load bioinfo-tools metaWRAP/1.3.2
 
-input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
-
-for suffix in last_feces cecum_samples; do
-       for F in $(cat $input_fasta_path/$suffix/trimmed_host_removed/trimmed.files); do
-                echo $F
-                b=${F##*/}
-                c=${F%/*}
-		echo $b
-                echo $c
-                sbatch --export=ALL,a=$F /proj/naiss2024-23-57/C57_female_lineage_microbiota/bin/reassembly_megahits.sh $F
+#for gen reassembly
+input_main_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
+for suffix in last_feces; do
+        for F in F0 F1 F2; do
+                generation=$input_main_path/$suffix/trimmed_host_removed/$F
+                echo $generation
+                sbatch --export=ALL,sample=$generation reassembly_per_gen.sh $generation
         done
 done
+
+#for individual reassembly
+#input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
+
+#for suffix in last_feces cecum_samples; do
+#       for F in $(cat $input_fasta_path/$suffix/trimmed_host_removed/trimmed.files); do
+#                echo $F
+#                b=${F##*/}
+#                c=${F%/*}
+#		echo $b
+#                echo $c
+#                sbatch --export=ALL,a=$F /proj/naiss2024-23-57/C57_female_lineage_microbiota/bin/reassembly_megahits.sh $F
+#        done
+#done
 
