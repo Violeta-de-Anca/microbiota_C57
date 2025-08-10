@@ -2,9 +2,7 @@
 #########!/bin/bash -x
 #SBATCH -A uppmax2025-2-151
 #SBATCH -p node
-##SBATCH -p core
 #SBATCH -n 2
-##SBATCH --cpus-per-task 16
 #SBATCH -t 10-00:00:00
 #SBATCH -J metaspa
 #SBATCH --error=/proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/assembly_gens_and_group_metaspades.err
