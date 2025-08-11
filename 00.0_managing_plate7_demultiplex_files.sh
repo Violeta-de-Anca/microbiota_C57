@@ -49,7 +49,7 @@ cd /proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_fi
 #	fi
 #done
 
-folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/cecum_samples/raw_files_F0_till_f2/transgenerational_samples
+folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_f2/transgenerational_samples
 
 for i in L_*; do
 	a=${i#L_}
@@ -84,7 +84,7 @@ for i in L_*; do
 		echo $folder/$i/Undetermined_Undetermined_22TWL7LT3_L3_1_${a}.fq.gz
 	fi
 	if [ -f $folder/$i/Undetermined_Undetermined_22TWL7LT3_L3_2_${a}.fq.gz ]; then
-		zcat $folder/$i/Undetermined_Undetermined_22TWL7LT3_L3_1_${a}.fq.gz >> $folder/$i/L_${a}_2.merged.fastq
+		zcat $folder/$i/Undetermined_Undetermined_22TWL7LT3_L3_2_${a}.fq.gz >> $folder/$i/L_${a}_2.merged.fastq
 	fi
 
 	gzip $folder/$i/*fasta

@@ -38,7 +38,7 @@ echo $temp_dir
 temp_fastq1=${temp_dir}/reads_1.fastq
 temp_fastq2=${temp_dir}/reads_2.fastq
 
-echo $temp_fastq1
+echo ${sample}_${e}_1.fastq.gz
 zcat ${sample}_${e}_1.fastq.gz > $temp_fastq1 || { echo "failed decompression";exit 1; }
 zcat ${sample}_${e}_2.fastq.gz > $temp_fastq2 || { echo "failed decompression";exit 1; }
 
