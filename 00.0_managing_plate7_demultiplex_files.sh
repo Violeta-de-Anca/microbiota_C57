@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 #SBATCH -A uppmax2025-2-302
 #SBATCH -p node
 #SBATCH -n 1
@@ -49,7 +49,7 @@ cd /proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_fi
 #	fi
 #done
 
-folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_f2/transgenerational_samples
+folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_F1/transgenerational_samples
 
 for i in L_*; do
 	a=${i#L_}
@@ -58,25 +58,25 @@ for i in L_*; do
 	echo $folder
 #first do forward file (1)
 	if ls $folder/$i/LP_*_1.*> /dev/null 2>&1; then
-		echo $folder/$i/LP_${i}_*-1A_22TWL7LT3_L3_1.fq.gz
-		zcat $folder/$i/LP_${i}_*-1A_22TWL7LT3_L3_1.fq.gz > $folder/$i/L_${a}_1.merged.fastq
+		echo $folder/$i/LP_${a}_*-1A_22TWL7LT3_L3_1.fq.gz
+		zcat $folder/$i/LP_${a}_*-1A_22TWL7LT3_L3_1.fq.gz > $folder/$i/L_${a}_1.merged.fastq
 		echo $folder/$i/${a}_1.merged.fastq
 	fi
 #also for the ones that are called different (LP_)
 	if ls $folder/$i/L_*_1.*> /dev/null 2>&1; then
-		echo $folder/$i/L_${i}_*-1A_22TWL7LT3_L3_1.fq.gz
-                zcat $folder/$i/L_${i}_*-1A_22TWL7LT3_L3_1.fq.gz > $folder/$i/L_${a}_1.merged.fastq
+		echo $folder/$i/L_${a}_*-1A_22TWL7LT3_L3_1.fq.gz
+                zcat $folder/$i/L_${a}_*-1A_22TWL7LT3_L3_1.fq.gz > $folder/$i/L_${a}_1.merged.fastq
                 echo $folder/$i/L_${a}_1.merged.fastq
         fi
 #now do it for the reverse file (2)
-	if ls $folder/$i/LP_${i}_*_2.* 1> /dev/null 2>&1; then
-		zcat $folder/$i/LP_${i}_*-1A_22TWL7LT3_L3_2.fq.gz > $folder/$i/L_${a}_2.merged.fastq
-		echo $folder/$i/LP_${i}_*-1A_22TWL7LT3_L3_1.fq.gz
+	if ls $folder/$i/LP_${a}_*_2.* 1> /dev/null 2>&1; then
+		zcat $folder/$i/LP_${a}_*-1A_22TWL7LT3_L3_2.fq.gz > $folder/$i/L_${a}_2.merged.fastq
+		echo $folder/$i/LP_${a}_*-1A_22TWL7LT3_L3_2.fq.gz
 	fi
 #also for the ones that are called different (LP_)
-	if ls $folder/$i/L_${i}_*_2.* 1> /dev/null 2>&1; then
-        	zcat $folder/$i/L_${i}_*-1A_22TWL7LT3_L3_2.fq.gz > $folder/$i/L_${a}_2.merged.fastq
-        	echo $folder/$i/L_${i}_*-1A_22TWL7LT3_L3_1.fq.gz
+	if ls $folder/$i/L_${a}_*_2.* 1> /dev/null 2>&1; then
+        	zcat $folder/$i/L_${a}_*-1A_22TWL7LT3_L3_2.fq.gz > $folder/$i/L_${a}_2.merged.fastq
+        	echo $folder/$i/L_${a}_*-1A_22TWL7LT3_L3_2.fq.gz
         fi
 
 	if [ -f $folder/$i/Undetermined_Undetermined_22TWL7LT3_L3_1_${a}.fq.gz ]; then

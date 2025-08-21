@@ -8,18 +8,20 @@
 #SBATCH --error /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/tidy_up_zip.err
 #SBATCH --output /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/tidy_up_zip.out
 
+#this script zips the assembly so it does not take lots of space
 
 input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes
 
-for F in "$input_fasta_path"/*; do
-	if [ -d "$F" ]; then
-		echo $F
-		b=${F##*/}
-		c=${F%/*}
-		echo $c
-		tar -czvf $F/megahit_intermediate_tar.gz $F/megahit
-		rm -r $F/megahit
-		tar -czvf $F/metaspades_intermediate_tar.gz $F/metaspades
-		rm -r $F/metaspades
-	fi
+for i in F0 F2 F1; do
+	for e in cecum_samples last_feces; do
+		for F in $input_fasta_path/${i}_${e}; do
+			echo $F
+			b=${F##*/}
+			c=${F%/*}
+			echo $c
+			tar -czvf $F/megahit_intermediate_tar.gz $F/megahit
+			rm -r $F/megahit
+			gzip $F/final_assembly.fasta
+		done
+	done
 done
