@@ -24,13 +24,23 @@ input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
 #        done
 #done
 
-for suffix in last_feces; do
-	for F in $input_fasta_path/$suffix/trimmed_host_removed/L_*; do
-		b=${F##*/}
-		echo $b
+#for suffix in last_feces; do
+#	for F in $input_fasta_path/$suffix/trimmed_host_removed/L_*; do
+#		b=${F##*/}
+#		echo $b
+#		echo $F
+#		c=${F%/*}
+#		echo $c
+#		gzip $F/final_pure_reads_1.fastq
+#		gzip $F/final_pure_reads_2.fastq
+#		gzip $F/host_reads_1.fastq
+#		gzip $F/host_reads_2.fastq
+#	done
+#done
+
+for suffix in cecum_samples; do
+	for F in $input_fasta_path/$suffix/trimmed_host_removed/M_*; do
 		echo $F
-		c=${F%/*}
-		echo $c
 		gzip $F/final_pure_reads_1.fastq
 		gzip $F/final_pure_reads_2.fastq
 		gzip $F/host_reads_1.fastq

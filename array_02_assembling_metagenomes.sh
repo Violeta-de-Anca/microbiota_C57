@@ -33,7 +33,8 @@ mkdir -p output_path
 # last_feces cecum_samples
 for suffix in cecum_samples; do
 	# F0 F1 F2
-	for F in F0; do
+	# F3 F4 F5
+	for F in F3 F4 F5; do
 		generation=$input_main_path/$suffix/trimmed_host_removed/$F
                 echo $generation
                 sbatch --export=ALL,sample=$generation /proj/naiss2024-23-57/C57_female_lineage_microbiota/bin/assembling_metagenomes_array.sh $generation

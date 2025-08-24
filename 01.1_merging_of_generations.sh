@@ -18,6 +18,68 @@ module load bioinfo-tools metaWRAP/1.3.2
 input_main_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
 suffix=cecum_samples
 
+#merging of the transgenerational part of the cecum samples
+table=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/cecum_samples/trimmed_host_removed/transgenerational_relational_table.txt
+out_folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/cecum_samples/trimmed_host_removed
+
+temp_dir=${TMPDIR:-${SNIC_TMP:-/scratch/$SLURM_JOB_ID}}
+mkdir -p $temp_dir
+
+#while read -r folder gen group || [[ -n ${folder:-} ]]; do
+#	r1=${folder}/final_pure_reads_1.fastq.gz
+#	r2=${folder}/final_pure_reads_2.fastq.gz
+	#check that we have the host removed files for each folder
+#	for i in 1 2; do
+#		fvar="r${i}"
+#		f="${!fvar}"
+#		if [[ ! -f "$f" ]]; then
+#			echo "there is no file $f" >&2
+#			exit 1
+#		fi
+#	done
+	#now is when the group key is created
+#	key=${gen}_${group}
+#	echo $r1 >> $temp_dir/${key}_1.list
+#	echo $r2 >> $temp_dir/${key}_2.list
+#done < $table
+
+#now do the merging
+#for list in $temp_dir/*.list; do
+#	a=${list##*/}
+#	b=${a%.list}
+#	finalname=$out_folder/${b}.fastq
+#	echo "creating $finalname"
+#	: > $finalname
+#	while read -r file; do
+#		zcat $file >> $finalname
+#	done < $list
+#done
+
+#now compress the files
+for i in $out_folder/F*fastq; do
+	gzip $i
+done
+
+#for i in F3 F4 F5; do
+#	for e in control obese; do
+#		touch $out_folder/${i}_cecum_samples_1.fastq
+#		touch $out_folder/${i}_cecum_samples_2.fastq
+#		r1=$out_folder/${i}_${e}_cecum_samples_1.fastq.gz
+#		r2=$out_folder/${i}_${e}_cecum_samples_2.fastq.gz
+#		n1=$(zcat $r1 | wc -l)
+#		n2=$(zcat $r2 | wc -l)
+#		if [[ $n1 -eq $n2 ]]; then
+#			zcat $out_folder/${i}_${e}_cecum_samples_1.fastq.gz >> $out_folder/${i}_cecum_samples_1.fastq
+#			zcat $out_folder/${i}_${e}_cecum_samples_2.fastq.gz >> $out_folder/${i}_cecum_samples_2.fastq
+#		else
+#			echo "generation ${i}_${e} does not have the same amount of reads in each file"
+#		fi
+#	done
+#done
+
+
+##############################################################
+
 # I need to do last_feces when plate 4 finish the host removal
 #for suffix in cecum_samples; do
 #	rm $input_main_path/$suffix/trimmed_host_removed/F0_obese_cecum_samples_1.fastq
@@ -115,12 +177,12 @@ suffix=cecum_samples
 #gzip $input_main_path/$suffix/trimmed_host_removed/F2_cecum_samples_2.fastq
 
 #do the merging of the F1 cecum samples into one single file to do the assembling, as in here all individuals have equal number of read in 1 and 2
-zcat $input_main_path/$suffix/trimmed_host_removed/F0_obese_cecum_samples_1.fastq.gz > $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
-zcat $input_main_path/$suffix/trimmed_host_removed/F0_control_cecum_samples_1.fastq.gz >> $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
-zcat $input_main_path/$suffix/trimmed_host_removed/F0_obese_cecum_samples_2.fastq.gz > $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
-zcat $input_main_path/$suffix/trimmed_host_removed/F0_control_cecum_samples_2.fastq.gz >> $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
-gzip $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
-gzip $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
+#zcat $input_main_path/$suffix/trimmed_host_removed/F0_obese_cecum_samples_1.fastq.gz > $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
+#zcat $input_main_path/$suffix/trimmed_host_removed/F0_control_cecum_samples_1.fastq.gz >> $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
+#zcat $input_main_path/$suffix/trimmed_host_removed/F0_obese_cecum_samples_2.fastq.gz > $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
+#zcat $input_main_path/$suffix/trimmed_host_removed/F0_control_cecum_samples_2.fastq.gz >> $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
+#gzip $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_1.fastq
+#gzip $input_main_path/$suffix/trimmed_host_removed/F0_cecum_samples_2.fastq
 
 # for last_feces
 #for suffix in last_feces; do

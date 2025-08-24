@@ -15,10 +15,11 @@ module load bioinfo-tools metaWRAP/1.3.2
 
 input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
 
-# do it by generation and type of sample
+# do the binning step with all 3 biners by generation and type of sample
 
-for suffix in last_feces; do
-#F0 F2
+#cecum_samples last_feces
+for suffix in cecum_samples; do
+#F0 F1 F2
         for F in F0 F2 F1; do
                 generation=$input_fasta_path/$suffix/trimmed_host_removed/$F
                 echo $generation
