@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-151
+#SBATCH -A uppmax2025-2-302
 #SBATCH -p node
 #SBATCH -n 1
 #SBATCH -t 10-00:00:00
@@ -12,7 +12,6 @@ module load bioinfo-tools metaWRAP/1.3.2 CheckM
 
 checkm data setRoot /proj/naiss2024-23-57/C57_female_lineage_microbiota/databases/CheckM_data/2015_01_16
 export CHECKM_DATA_PATH=/proj/naiss2024-23-57/C57_female_lineage_microbiota/databases/CheckM_data/2015_01_16
-
 
 #for doing it per generations/sample type
 a=${1##*/} #without path

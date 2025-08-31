@@ -19,8 +19,8 @@ input_fasta_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
 
 #cecum_samples last_feces
 for suffix in cecum_samples; do
-#F0 F1 F2
-        for F in F0 F2 F1; do
+#F0 F1 F2 F3 F4 F5
+        for F in F3 F4 F5; do
                 generation=$input_fasta_path/$suffix/trimmed_host_removed/$F
                 echo $generation
                 sbatch --export=ALL,sample=$generation bin_concoct_MaxBin_metaBAT_per_gen.sh $generation

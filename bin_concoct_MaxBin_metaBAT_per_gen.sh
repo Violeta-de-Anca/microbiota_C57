@@ -42,7 +42,7 @@ echo $a
 echo $c
 echo ${1}_${c}_1.fastq.gz
 
-# Decompress the assembly into the temporary file
+# Decompress the assembly and the fastq files into the temporary files
 zcat ${1}_${c}_1.fastq.gz > $temp_fastq1 || { echo "failed decompression";exit 1; }
 zcat ${1}_${c}_2.fastq.gz > $temp_fastq2 || { echo "failed decompression";exit 1; }
 zcat $input_megahit > $temp_assembly || { echo "failed decompression";exit 1; }
