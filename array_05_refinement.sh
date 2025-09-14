@@ -17,7 +17,8 @@ module load bioinfo-tools metaWRAP/1.3.2
 input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/bin_metagenomics
 #last_feces cecum_samples
 for suffix in cecum_samples; do
-	for F in F0 F2 F1; do
+#F0 F2 F1 F3 F4 F5
+	for F in F3 F4 F5; do
 		generation=$input_path/${F}_${suffix}
 		echo $generation
 		sbatch --export=ALL,sample=$generation refinement_per_gen.sh $generation

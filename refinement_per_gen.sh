@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-302
+#SBATCH -A uppmax2025-3-6
 #SBATCH -p node
 #SBATCH -n 1
 #SBATCH -t 10-00:00:00

@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-151
+#SBATCH -A uppmax2025-2-150
 #SBATCH -p node
 ##SBATCH -p core
 #SBATCH -n 1
@@ -12,7 +12,7 @@
 
 module load bioinfo-tools metaWRAP/1.3.2
 
-module load biopython/1.76-py3
+#module load biopython/1.76-py3
 
 checkm data setRoot /proj/naiss2024-23-57/C57_female_lineage_microbiota/databases/CheckM_data/2015_01_16
 export CHECKM_DATA_PATH=/proj/naiss2024-23-57/C57_female_lineage_microbiota/databases/CheckM_data/2015_01_16

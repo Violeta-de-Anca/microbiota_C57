@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-222
-#SBATCH -p core
+#SBATCH -A uppmax2025-2-150
+#SBATCH -p node
 #SBATCH -n 1
-#SBATCH -t 10:00:00
+#SBATCH -t 10-00:00:00
 #SBATCH -J quant
 #SBATCH --error=/proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/quantifying/quantifying_megahit_per_gen.err
 #SBATCH --output=/proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/quantifying/quantifying_megahit_per_gen.out
@@ -36,43 +36,31 @@ echo $output_folder
 echo $bins_folder
 
 # Decompress the assembly into the temporary file if it compressed
-if file $input_megahit | grep -q 'gzip compressed'; then
+if file $input_megahit/final_assembly.fasta.gz | grep -q 'gzip compressed'; then
 	echo "assemly compressed in gz: $input_megahit"
-	zcat $input_megahit > $temp_assembly
+	zcat $input_megahit/final_assembly.fasta.gz > $temp_assembly
 else
 	echo "assembly not compressed: $input_megahit"
-	cat $input_megahit > $temp_assembly
+	cat $input_megahit/final_assembly.fasta > $temp_assembly
 fi
 
 mkdir -p $output_folder
 
 #uncompress the fastq files
-while IFS= read -r -d '' dir; do
-	echo $dir
-	sample_id=$(basename ${dir})
-	for i in 1 2; do
-		fasqgz=$dir/final_pure_reads_${i}.fastq.gz
-		fastq=$dir/final_pure_reads_${i}.fastq
-		if [[ -f $fasqgz ]]; then
-			file=$fasqgz
-		elif [[ -f $fastq ]]; then
-			file=$fastq
-		else
-			echo "something went wrong in directory $dir" >&2
-			continue
-		fi
+while IFS= read -r -d '' file; do
+	echo $file
+	base=$(basename $file)
+	sample_id=$(basename $(dirname $file))
+	if [[ $base =~ ^final_pure_reads_([12])\.fastq\.gz$ ]]; then
+		i=${BASH_REMATCH[1]}
 		dest=$temp_dir/${sample_id}_${i}.fastq
-		echo "Decompressing/Copying: $file -> $dest"
-		if file --brief --mime-type $file | grep -q '^application/x-gzip$'; then
-			echo "compressed fastq file: $file"
-			zcat -- $file > $dest
-		else
-			echo "not compressed fastq file: $file"
-			cat -- $file > $dest
-		fi
-	done
+		echo "Decompressing: $file -> $dest"
+		gzip -cd -- $file > $dest
+	else
+		echo "Skipping unexpected file name: $file" >&2
+	fi
 done < <(
-    find $folder_fastq/trimmed_host_removed -type d -path "*/$gen*" -print0
+    find $folder_fastq/trimmed_host_removed -type f -path "*/$gen*" -name 'final_pure_reads_[12].fastq.gz' -print0
 )
 
-#metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*
+metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*

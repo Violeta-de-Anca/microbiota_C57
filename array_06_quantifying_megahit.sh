@@ -15,21 +15,24 @@ module load bioinfo-tools metaWRAP/1.3.2
 
 #for doing per generations/per sample type, but to get individual information
 input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/bin_metagenomics
-#F0 F2 F1
+#F0 F2 F1 F3 F4 F5
 #last_feces cecum_samples
-for suffix in cecum_samples; do
-        for F in F2 F0 F1; do
-                generation=$input_path/${F}_${suffix}
-                echo $generation
-                sbatch --export=ALL,sample=$generation quantifying_per_gen.sh $generation
-        done
-done
+#for suffix in cecum_samples; do
+#        for F in F3 F4 F5; do
+#                generation=$input_path/${F}_${suffix}
+#                echo $generation
+#                sbatch --export=ALL,sample=$generation quantifying_per_gen.sh $generation
+#        done
+#done
 
 #for doing per generations/per sample type, but to get per group information
 input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/bin_metagenomics
-for suffix in cecum_samples; do
+#last_feces cecum_samples
+for suffix in cecum_samples last_feces; do
+#F0 F2 F1 F3 F4 F5
 	for F in F0 F2 F1; do
-		for e in control obese; do
+#control obese
+		for e in control; do
 			generation=$input_path/${F}_${e}_${suffix}
 			echo $generation
 			sbatch --export=ALL,sample=$generation quantifying_per_group.sh $generation
