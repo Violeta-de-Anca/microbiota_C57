@@ -1,6 +1,7 @@
 #!/bin/bash
 #SBATCH -A uppmax2025-2-302
 #SBATCH -p node
+##SBATCH -p core
 #SBATCH -n 1
 #SBATCH -t 10-00:00:00
 #SBATCH -J functanno
@@ -21,4 +22,13 @@ mkdir -p $output_path
 a=${1##*/} #without path (F 0/1/2_last_feces)
 b=${1%/*} #the path (/proj/naiss2024-23-57/C57_female_lineage_microbiota/assembled_metagenomes)
 
-metawrap annotate_bins -o $output_path/${a} -b $1/reassembly/reassemblies
+
+metawrap annotate_bins -o $output_path/${a} -b $1/reassembly/reassembled_bins
+
+#handling of output from prokka
+number_lines=$( ls $output_path/${a}/bin_funct_annotations/*orig* | wc -l )
+for i in $(seq 1 $number_lines);do
+	for f in orig permissive strict; do
+		grep -v ";product=hypothetical protein" $output_path/${a}/bin_funct_annotations/bin.${i}.${f}.gff > $output_path/${a}/bin_funct_annotations/bin.${i}.${f}_no_prediction.gff
+	done
+done

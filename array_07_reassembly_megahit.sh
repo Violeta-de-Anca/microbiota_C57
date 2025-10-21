@@ -15,8 +15,9 @@ module load bioinfo-tools metaWRAP/1.3.2
 
 #for gen reassembly
 input_main_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples
-for suffix in last_feces; do
-        for F in F0 F1 F2; do
+#last_feces cecum_samples
+for suffix in last_feces cecum_samples; do
+        for F in F0 F1 F2 F3 F4 F5; do
                 generation=$input_main_path/$suffix/trimmed_host_removed/$F
                 echo $generation
                 sbatch --export=ALL,sample=$generation reassembly_per_gen.sh $generation

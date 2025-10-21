@@ -1,6 +1,7 @@
 #!/bin/bash
 #SBATCH -A uppmax2025-2-150
-#SBATCH -p node
+##SBATCH -p node
+#SBATCH -p core
 #SBATCH -n 1
 #SBATCH -t 10-00:00:00
 #SBATCH -J quant
@@ -46,21 +47,40 @@ fi
 
 mkdir -p $output_folder
 
-#uncompress the fastq files
-while IFS= read -r -d '' file; do
-	echo $file
-	base=$(basename $file)
-	sample_id=$(basename $(dirname $file))
-	if [[ $base =~ ^final_pure_reads_([12])\.fastq\.gz$ ]]; then
-		i=${BASH_REMATCH[1]}
-		dest=$temp_dir/${sample_id}_${i}.fastq
-		echo "Decompressing: $file -> $dest"
-		gzip -cd -- $file > $dest
-	else
-		echo "Skipping unexpected file name: $file" >&2
-	fi
-done < <(
-    find $folder_fastq/trimmed_host_removed -type f -path "*/$gen*" -name 'final_pure_reads_[12].fastq.gz' -print0
-)
+#uncompress the fastq files - multigen codes
+#while IFS= read -r -d '' file; do
+#	echo $file
+#	base=$(basename $file)
+#	sample_id=$(basename $(dirname $file))
+#	if [[ $base =~ ^final_pure_reads_([12])\.fastq\.gz$ ]]; then
+#		i=${BASH_REMATCH[1]}
+#		dest=$temp_dir/${sample_id}_${i}.fastq
+#		echo "Decompressing: $file -> $dest"
+#		gzip -cd -- $file > $dest
+#	else
+#		echo "Skipping unexpected file name: $file" >&2
+#	fi
+#done < <(
+#    find $folder_fastq/trimmed_host_removed -type f -path "*/$gen*" -name 'final_pure_reads_[12].fastq.gz' -print0
+#)
 
-metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*
+#uncompress the fastq files - transgen codes
+awk -v gen="$gen" -F'\t' '  $0 !~ /^[[:space:]]*($|#)/ && $2 == gen { printf "%s\0", $1 }' $folder_fastq/trimmed_host_removed/transgenerational_relational_table.txt | \
+while IFS= read -r -d '' sample_dir; do
+	while IFS= read -r -d '' file; do
+		base=$(basename "$file")
+		sample_id=$(basename "$sample_dir")
+		if [[ $base =~ ^final_pure_reads_([12])\.fastq\.gz$ ]]; then
+			i=${BASH_REMATCH[1]}
+			print $i
+			dest=$temp_dir/${sample_id}_${i}.fastq
+			print $dest
+			gzip -cd -- $file > $dest
+		else
+			echo "Skipping unexpected file name: $file" >&2
+		fi
+	done < <(find "$sample_dir" -type f -name 'final_pure_reads_[12].fastq.gz' -print0)
+done
+
+
+#metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*
