@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-151
+#SBATCH -A uppmax2025-2-150
 #SBATCH -p core
 #SBATCH -n 1
 #SBATCH -t 10:00
@@ -18,7 +18,7 @@ input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/bin_metagenomics
 #F0 F2 F1 F3 F4 F5
 #last_feces cecum_samples
 for suffix in cecum_samples; do
-        for F in F3 F4 F5; do
+        for F in F4 F5; do
                 generation=$input_path/${F}_${suffix}
                 echo $generation
                 sbatch --export=ALL,sample=$generation quantifying_per_gen.sh $generation

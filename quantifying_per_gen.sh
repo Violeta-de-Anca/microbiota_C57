@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH -A uppmax2025-2-150
-##SBATCH -p node
-#SBATCH -p core
+#SBATCH -p node
+##SBATCH -p core
 #SBATCH -n 1
 #SBATCH -t 10-00:00:00
 #SBATCH -J quant
@@ -35,6 +35,7 @@ echo $input_megahit
 echo $a
 echo $output_folder
 echo $bins_folder
+echo $gen
 
 # Decompress the assembly into the temporary file if it compressed
 if file $input_megahit/final_assembly.fasta.gz | grep -q 'gzip compressed'; then
@@ -67,14 +68,15 @@ mkdir -p $output_folder
 #uncompress the fastq files - transgen codes
 awk -v gen="$gen" -F'\t' '  $0 !~ /^[[:space:]]*($|#)/ && $2 == gen { printf "%s\0", $1 }' $folder_fastq/trimmed_host_removed/transgenerational_relational_table.txt | \
 while IFS= read -r -d '' sample_dir; do
+	echo $sample_dir
 	while IFS= read -r -d '' file; do
 		base=$(basename "$file")
 		sample_id=$(basename "$sample_dir")
 		if [[ $base =~ ^final_pure_reads_([12])\.fastq\.gz$ ]]; then
 			i=${BASH_REMATCH[1]}
-			print $i
+			echo $i
 			dest=$temp_dir/${sample_id}_${i}.fastq
-			print $dest
+			echo $dest
 			gzip -cd -- $file > $dest
 		else
 			echo "Skipping unexpected file name: $file" >&2
@@ -83,4 +85,4 @@ while IFS= read -r -d '' sample_dir; do
 done
 
 
-#metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*
+metawrap quant_bins -b $bins_folder -o $output_folder -t 8 -a $temp_assembly $temp_dir/*
