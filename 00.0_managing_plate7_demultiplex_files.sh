@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH -A uppmax2025-2-302
 #SBATCH -p pelle
-#SBATCH --mem 1GB
+#SBATCH --mem 10GB
 #SBATCH -t 1:00:00
 #SBATCH -J raw_LF
 #SBATCH --error=/proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/managing_plate7.err
@@ -52,7 +52,8 @@ cd /proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_fi
 
 folder=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_F1/transgenerational_samples
 
-for i in L_*; do
+#for i in L_*; do
+for i in L_12231_L; do
 	a=${i#L_}
 	echo $i
 	echo $a

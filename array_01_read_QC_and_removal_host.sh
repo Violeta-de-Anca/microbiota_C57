@@ -1,17 +1,17 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-151
-#SBATCH -p core
-#SBATCH -n 1
-#SBATCH -t 1:00
+#SBATCH -A uppmax2025-2-302
+#SBATCH -p pelle
+#SBATCH --mem 1GB
+#SBATCH -t 10:00
 #SBATCH -J jobarray
-#SBATCH --mail-type=BEGIN
 #SBATCH --error /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/array_01_plate7and1.1_removal.err
 #SBATCH --output /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/array_01_plate7and1.1_removal.out
 
 # SLURM_ARRAY_TASK_ID tells the script which iteration to run
 echo $SLURM_ARRAY_TASK_ID
 
-module load bioinfo-tools metaWRAP/1.3.2
+#pelle
+module load metaWRAP/1.4-20230728-foss-2024a-Python-2.7.18
 
 #For plate 7, which is the transgenerational part of the last feces samples
 input_path=/proj/naiss2024-23-57/C57_female_lineage_microbiota/samples/last_feces/raw_files_F0_till_F1/transgenerational_samples
