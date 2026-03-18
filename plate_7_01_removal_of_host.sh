@@ -7,11 +7,12 @@
 #SBATCH --error /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/01_plate7_host_removal.err
 #SBATCH --output /proj/naiss2024-23-57/C57_female_lineage_microbiota/log_files/01_plate7_host_removal.out
 
-
 module load metaWRAP/1.4-20230728-foss-2024a-Python-2.7.18
 
-echo $1
+export BMTAGGER_DB=/proj/naiss2024-23-57/reference_genomes/mus_musculus/uscs_ref
 
+echo $1
+echo $BMTAGGER_DB
 #input files:
 a=${1##*/} #without path
 b=${1%/*} #the path
