@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_cluster_bin_matrix.py
+18_link_clusters_abundance.py
 ============================
 
 Goal
@@ -36,7 +36,7 @@ Outputs (saved next to the FASTA, in functional_annotatioin/)
 
   - cluster_bin_protein_proportion_matrix.tsv
        Wide matrix: first column "cluster", then one column per bin (sorted).
-       Each cell is the fraction described above (0 if the bin has no
+       Each cell is the fraction described above (NA if the bin has no
        proteins in that cluster).
 """
 
@@ -194,8 +194,8 @@ with open(OUT_MATRIX, "w") as out:
         for b in all_bins:
             n = c.get(b, 0)
             if n == 0:
-                # Most cells will be 0 — keep it short.
-                row_vals.append("0")
+                # Put NA if there are no proteins in cluster.
+                row_vals.append("NA")
             else:
                 tot = bin_totals.get(b, 0)
                 if tot == 0:

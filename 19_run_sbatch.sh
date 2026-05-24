@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH -A uppmax2025-2-302
-##SBATCH -A uppmax2025-2-536
+##SBATCH -A uppmax2025-2-302
+#SBATCH -A uppmax2025-2-536
 ##SBATCH -A uppmax2026-1-34
 #SBATCH -p pelle
 #SBATCH --mem 10GB
